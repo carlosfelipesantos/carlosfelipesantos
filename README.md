@@ -1,8 +1,12 @@
 #   💻 Desenvolvedor Back-End em formação, com foco no ecossistema Microsoft e desenvolvimento de sistemas corporativos.
 
 🎓 Formação
+
 • Técnico em Análise e Desenvolvimento de Sistemas – ETEC
+
 • Graduando em Análise e Desenvolvimento de Sistemas – FATEC
+
+
 
 🧠 Stack principal
 • C#
@@ -13,6 +17,7 @@
 • Java
 • Desenvolvimento de APIs REST
 • Modelagem de Dados
+
 
 🌎 Inglês
 • Nível intermediário para leitura técnica e documentação
